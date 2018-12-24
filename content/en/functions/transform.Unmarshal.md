@@ -39,7 +39,7 @@ delimiter
 : The delimiter used, default is `,`
 
 comment
-: The comment character ued in the CSV. If set, lines beginning with the comment character without preceding whitespace are ignored.:
+: The comment character used in the CSV. If set, lines beginning with the comment character without preceding whitespace are ignored.:
 
 
 Example:
